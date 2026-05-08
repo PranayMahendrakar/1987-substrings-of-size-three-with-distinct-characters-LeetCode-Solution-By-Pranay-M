@@ -1,3 +1,4 @@
 # Activity Log
 
 - [2026-05-08T11:37:48Z] test: add unit tests for core module
+- [2026-05-08T14:26:23Z] feat: add helper utility function
